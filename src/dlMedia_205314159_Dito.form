@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="Isi / Cari / Hapus / Data Media - 205314159"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="multiButton" pref="538" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="noL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="namaL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="alamatL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="redakL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="tahunL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="spinnerL1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="spinnerL2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                              <Component id="koranButt" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="noTF" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="namaTF" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="alamatTF" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="redakTF" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="tahunTF" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="spinnerTF1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="spinnerTF2" alignment="1" min="-2" pref="226" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="noCB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="namaCB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alamatCB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="redakCB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tahunCB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="spin1CB" min="-2" max="-2" attributes="0"/>
+                                  <Component id="spin2CB" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="tabloButt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="majButt" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace pref="11" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="koranButt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tabloButt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="majButt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="noL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="noTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="noCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="namaL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="namaTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="namaCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="alamatL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="alamatTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="alamatCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="redakL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="redakTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="redakCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tahunL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tahunTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tahunCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="spinnerL1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="spinnerTF1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="spin1CB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="spinnerL2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="spinnerTF2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="spin2CB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="multiButton" min="-2" pref="41" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="noL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nop Ijin"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namaL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nama"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="alamatL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Alamat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="redakL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Redaktur"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tahunL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tahun Berdiri         "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="spinnerL1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bahasa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="spinnerL2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Iklan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="noTF">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="noTFFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="namaTF">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="namaTFFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="alamatTF">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="alamatTFFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="redakTF">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="redakTFFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tahunTF">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="tahunTFFocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="spinnerTF1">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="spinnerTF1FocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="spinnerTF2">
+      <Events>
+        <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="spinnerTF2FocusLost"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="multiButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isi Data / Hapus Data / Cari Data"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="multiButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="noCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="namaCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="redakCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="alamatCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="tahunCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="spin1CB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="spin2CB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Format Benar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="koranButt">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup1"/>
+        </Property>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="Koran"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="koranButtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="tabloButt">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Tabloid"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tabloButtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="majButt">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Majalah"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="majButtActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
